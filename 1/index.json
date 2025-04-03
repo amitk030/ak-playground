@@ -1,6 +1,6 @@
 {
-  "title": "Exercise for Demo",
-  "description": "This is a demo exercise",
+  "title": "Question 1",
+  "description": "Pods Question",
   "details": {
     "intro": {
       "text": "start.md"
@@ -8,8 +8,8 @@
     "steps": [
       {
         "title": "Question 1",
-        "text": "1/text.md",
-        "verify": "1/verify.sh"
+        "text": "text.md",
+        "verify": "verify.sh"
       }
     ],
     "finish": {
