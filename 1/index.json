@@ -7,7 +7,7 @@
     },
     "steps": [
       {
-        "title": "Question 1",
+        "title": "Create a Pod",
         "text": "text.md",
         "verify": "verify.sh"
       }
