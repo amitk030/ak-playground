@@ -1,0 +1,1 @@
+### Create a Pod named `nginx-pod` running an `nginx` container.

@@ -1,0 +1,22 @@
+{
+  "title": "Exercise for Demo",
+  "description": "This is a demo exercise",
+  "details": {
+    "intro": {
+      "text": "start.md"
+    },
+    "steps": [
+      {
+        "title": "Question 1",
+        "text": "1/text.md",
+        "verify": "1/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
